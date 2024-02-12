@@ -9,8 +9,8 @@ Fonts are separated by a & */
   /* change the values below to your colors from your palette */
   --primary-color: #8ABCB1   ;
   --secondary-color: #140E00 ;
-  --accent1-color: #85CB33;
-  --accent2-color: #EFFFC8;
+  --accent1-color: #85CB33 ;
+  --accent2-color:#EFFFC8;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Playfair Display";
